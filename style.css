@@ -1,0 +1,8 @@
+.titulo{
+    display: flex;
+    justify-content: center ;
+    font-family: "Inter" , sans-serif;
+    font-weight: 400px ;
+    font-size: 30px;
+    color: #107300;
+}
